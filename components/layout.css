@@ -1,0 +1,76 @@
+ul li {
+    display: flex;
+    align-items: center;
+    column-gap: 15px;
+}
+
+
+.nav-item a{
+    text-decoration: none;
+    color: black;
+}
+
+.btncreate{
+    width: 60%;
+    background-color: blueviolet;
+
+}
+.input-group{
+    width: 60% !important;
+}
+.icons{
+    font-size: 20px;
+    color: blueviolet;
+}
+.btnlogout{
+    padding: 7px;
+    background-color: blueviolet;
+
+}
+.ratingcontainer{
+    background-color: blueviolet;
+}
+.card-icon-1{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: rgb(240, 210, 153);
+    color: orangered;
+    text-align: center;
+}
+.card-icon-2{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: rgb(202, 243, 215);
+    color: rgb(12, 195, 110);
+    text-align: center;
+}
+.card-icon-3{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: rgb(180, 182, 241);
+    color: rgb(68, 0, 255);
+    text-align: center;
+}
+.card-icon-4{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: rgb(162, 238, 240);
+    color: rgb(18, 123, 124);
+    text-align: center;
+}
+.card:hover{
+    background-color: rgb(227, 225, 225);
+}
+.icon-moon:hover{
+color: blueviolet;
+}
+.nav-item:hover{
+    background-color: rgb(194, 172, 215);
+    border-radius: 8px;
+    width: 75%;
+    padding: 3px;
+}

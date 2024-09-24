@@ -1,0 +1,33 @@
+.button-group .active {
+  border-bottom: 4px solid blue;
+  font-weight: bold;
+}
+
+.button-group button {
+  background: none;
+  border: none;
+  color: grey;
+
+}
+
+.button-group {
+  margin: 10px auto 0 auto;
+  padding-left: 175px;
+}
+.logo {
+  padding-left: 175px !important;
+}
+
+.signup {
+  background-color: aliceblue;
+  padding: 30px;
+  /* display: flex; */
+  
+}
+
+.icons{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 15px;
+}
